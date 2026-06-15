@@ -12,8 +12,8 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "asfgh",
-      "name": "catalog/filmlist61029182.json",
+      "id": "filmlist61029182.json",
+      "name": "deneme bir",
       "extra": [
         {
           "name": "skip",
