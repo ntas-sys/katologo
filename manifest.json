@@ -1,0 +1,30 @@
+{
+  "id": "community.yerli.film.katalog",
+  "version": "0.0.5",
+  "name": "test-1",
+  "description": "falanfilan.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "somethh",
+      "name": "someth",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false,
+    "configurable": false
+  }
+}
