@@ -1,5 +1,5 @@
 {
-  "id": "community.yerli.film.katalog",
+  "id": "community.test.film.katalog",
   "version": "0.0.5",
   "name": "test-1",
   "description": "falanfilan.",
@@ -12,7 +12,7 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "filmlist61029182.json",
+      "id": "filmlist61029182",
       "name": "deneme bir",
       "extra": [
         {
