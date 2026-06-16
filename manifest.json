@@ -45,6 +45,116 @@
     },
     {
       "type": "movie",
+      "id": "bigdickkatha___non-english-movies_FILTERED",
+      "name": "non english movies_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "davidsansun___radarrforeign_FILTERED",
+      "name": "radarrforeign_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "joachim_jaeger___omnia-vidi-best-of-anthology_FILTERED",
+      "name": "omnia vidi best of anthology_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "letterboxd.com___lists_FILTERED",
+      "name": "lists_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "mccarthyjack___foreign-language-films-3_FILTERED",
+      "name": "foreign language films 3_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "neperfectionist___white-elephant-all-nominees_FILTERED",
+      "name": "white elephant all nominees_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "parmeet499___good-movies-comedy_FILTERED",
+      "name": "good movies comedy_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "ryan_greaney0___arthouse-watchlist-sorted-by-director-1_FILTERED",
+      "name": "arthouse watchlist sorted by director 1_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "systemsdead___foreign-movies-ive-seen-rated_FILTERED",
+      "name": "foreign movies ive seen rated_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "the_babadook___moet-van-mmc_FILTERED",
+      "name": "moet van mmc_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
       "id": "___anaesthetist_FILTERED",
       "name": "anaesthetist_F",
       "extra": [
