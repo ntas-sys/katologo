@@ -2,7 +2,7 @@
   "id": "community.test.film.katalog",
   "version": "0.0.5",
   "name": "test-1",
-  "description": "falanfilan.",
+  "description": "Otomatik oluşturulmuş manifest.",
   "resources": [
     "catalog"
   ],
@@ -12,8 +12,41 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "filmlist61029182",
-      "name": "deneme bir",
+      "id": "alis669___filmlist61029182_FILTERED",
+      "name": "alis669___filmlist61029182_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "alyacat28___graduated-from-the-300-under-5000-ratings_FILTERED",
+      "name": "alyacat28___graduated-from-the-300-under-5000-ratings_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "alyacat28___top-300-narrative-feature-films-under-5000_FILTERED",
+      "name": "alyacat28___top-300-narrative-feature-films-under-5000_F",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "___anaesthetist_FILTERED",
+      "name": "___anaesthetist_F",
       "extra": [
         {
           "name": "skip",
